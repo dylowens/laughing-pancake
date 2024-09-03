@@ -22,7 +22,7 @@ export default function Home() {
         <div className="group rounded-lg border border-transparent px-5 py-4">
           <h2 className="mb-3 text-2xl font-semibold">My YouTube Videos</h2>
           <ul className="list-disc pl-5">
-            <li><a href="https://youtube.com/your-video-1" className="text-blue-500 hover:underline">Video 1 Title</a></li>
+            <li><a href="https://youtu.be/Y87dnJ2YoJA" className="text-blue-500 hover:underline">Route Youtube video</a></li>
             <li><a href="https://youtube.com/your-video-2" className="text-blue-500 hover:underline">Video 2 Title</a></li>
             <li><a href="https://youtube.com/your-video-3" className="text-blue-500 hover:underline">Video 3 Title</a></li>
           </ul>
