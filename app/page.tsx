@@ -15,7 +15,7 @@ export default function Home() {
         <div className="group rounded-lg border border-transparent px-5 py-4">
           <h2 className="mb-3 text-2xl font-semibold">About Me</h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            I am a map maker. I make maps. I make games. I make things.
+            I am a map maker. I make maps. I make things.
           </p>
         </div>
 
