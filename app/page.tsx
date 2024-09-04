@@ -23,7 +23,7 @@ export default function Home() {
           <h2 className="mb-3 text-2xl font-semibold">My YouTube Videos</h2>
           <ul className="list-disc pl-5">
             <li><a href="https://youtu.be/Y87dnJ2YoJA" className="text-blue-500 hover:underline">Route Youtube video</a></li>
-            <li><a href="https://youtube.com/your-video-2" className="text-blue-500 hover:underline">Video 2 Title</a></li>
+            <li><a href="https://www.youtube.com/watch?v=iMJURZL6OyY&t=22s" className="text-blue-500 hover:underline">Italy Zoom video</a></li>
             <li><a href="https://youtube.com/your-video-3" className="text-blue-500 hover:underline">Video 3 Title</a></li>
           </ul>
 
