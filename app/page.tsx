@@ -15,23 +15,23 @@ export default function Home() {
         <div className="group rounded-lg border border-transparent px-5 py-4">
           <h2 className="mb-3 text-2xl font-semibold">About Me</h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            I am a map maker. I make maps. I make things.
+            I am a map maker. I make maps. I make games. I make things.
           </p>
         </div>
 
         <div className="group rounded-lg border border-transparent px-5 py-4">
           <h2 className="mb-3 text-2xl font-semibold">My YouTube Videos</h2>
           <ul className="list-disc pl-5">
-            <li><a href="https://youtu.be/Y87dnJ2YoJA" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Route Youtube video</a></li>
-            <li><a href="https://www.youtube.com/watch?v=iMJURZL6OyY&t=22s" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Italy Zoom video</a></li>
-            <li><a href="https://youtube.com/your-video-3" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Video 3 Title</a></li>
+            <li><a href="https://youtu.be/Y87dnJ2YoJA" className="text-blue-500 hover:underline">Route Youtube video</a></li>
+            <li><a href="https://www.youtube.com/watch?v=iMJURZL6OyY&t=22s" className="text-blue-500 hover:underline">Italy Zoom video</a></li>
+            <li><a href="https://youtube.com/your-video-3" className="text-blue-500 hover:underline">Video 3 Title</a></li>
           </ul>
 
           <h2 className="mb-3 text-2xl font-semibold mt-6">My 3D Models</h2>
           <ul className="list-disc pl-5">
-            <li><a href="https://your-3d-model-link-1" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Model 1 Title</a></li>
-            <li><a href="https://your-3d-model-link-2" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Model 2 Title</a></li>
-            <li><a href="https://your-3d-model-link-3" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Model 3 Title</a></li>
+            <li><a href="https://your-3d-model-link-1" className="text-blue-500 hover:underline">Model 1 Title</a></li>
+            <li><a href="https://your-3d-model-link-2" className="text-blue-500 hover:underline">Model 2 Title</a></li>
+            <li><a href="https://your-3d-model-link-3" className="text-blue-500 hover:underline">Model 3 Title</a></li>
           </ul>
         </div>
       </div>
