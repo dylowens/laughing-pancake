@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Dylan Owens Portfolio',
+  title: 'Portfolio',
   description: 'Portfolio of Dylan Owens, map maker and game developer',
   icons: {
     icon: '/favicon.png',
