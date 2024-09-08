@@ -33,6 +33,16 @@ export default function Home() {
             <li><a href="https://your-3d-model-link-2" className="text-blue-500 hover:underline">Model 2 Title</a></li>
             <li><a href="https://your-3d-model-link-3" className="text-blue-500 hover:underline">Model 3 Title</a></li>
           </ul>
+          <h2 className="mb-3 text-2xl font-semibold mt-6">My Maps</h2>
+          <ul className="list-disc pl-5">
+            <li>
+              <a href="/blueberry-us" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                Blueberry U.S.
+              </a>
+            </li>
+            <li><a href="https://your-map-link-2" className="text-blue-500 hover:underline">Map 2 Title</a></li>
+            <li><a href="https://your-map-link-3" className="text-blue-500 hover:underline">Map 3 Title</a></li>
+          </ul>
         </div>
       </div>
     </main>
