@@ -36,11 +36,13 @@ export default function Home() {
           <h2 className="mb-3 text-2xl font-semibold mt-6">My Maps</h2>
           <ul className="list-disc pl-5">
             <li>
-              <a href="/map-gifs/blueberry_page.tsx" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+              <a href="/map-gifs/blueberry_page" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
                 Blueberry U.S.
               </a>
             </li>
-            <li><a href="/map-gifs/abbasid_caliphate_page.tsx" className="text-blue-500 hover:underline">Abbasid Caliphate_1200AD</a></li>
+            <li>
+              <a href="/map-gifs/abbasid_caliphate_page" className="text-blue-500 hover:underline">Abbasid Caliphate_1200AD</a>
+            </li>
             <li><a href="https://your-map-link-3" className="text-blue-500 hover:underline">Map 3 Title</a></li>
           </ul>
         </div>
