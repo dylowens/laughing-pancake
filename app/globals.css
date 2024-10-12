@@ -1,6 +1,6 @@
-@tailwind base; /* Ensure Tailwind is installed and configured */
-@tailwind components; /* Ensure Tailwind is installed and configured */
-@tailwind utilities; /* Ensure Tailwind is installed and configured */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --foreground-rgb: 0, 0, 0;
