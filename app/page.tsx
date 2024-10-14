@@ -36,7 +36,7 @@ export default function Home() {
           <h2 className="mb-3 text-2xl font-semibold mt-6">My Maps</h2>
           <ul className="list-disc pl-5">
             <li>
-              <a href="/blueberry_page/blueberry_page.tsx" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+              <a href="/blueberry_page" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
                 Blueberry U.S.
               </a>
             </li>
